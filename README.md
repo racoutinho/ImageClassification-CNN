@@ -1,4 +1,4 @@
-### Jupyter Notebook demonstrating the implementation of a multi-class classification convolution neural net model for flowers prediction.
+# Jupyter Notebook demonstrating the implementation of a convolution neural net model for multi-class classification of flowers dataset.
 
 Libraries:
 
@@ -6,7 +6,7 @@ Libraries:
 * Tensorflow
 
 
-# Convolution Neural Net 
+### Convolution Neural Net 
 
 In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery.
 
