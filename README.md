@@ -1,4 +1,4 @@
-Implementation of a convolution neural net model for multi-class classification of flowers dataset.
+# Implementation of a convolution neural net model for multi-class classification of flowers dataset.
 
 Libraries:
 
